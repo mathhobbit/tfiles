@@ -11,5 +11,5 @@ clean:
 	rm ./tfiles
 
 install:
-	cp ./tfiles /usr/bin
+	cp ./tfiles /usr/local/bin
 
